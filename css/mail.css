@@ -1,0 +1,72 @@
+.test{
+    color: rgb(230, 0, 0);
+}
+/* Селектор по классу */
+
+
+.my-class {
+    font-weight: bold;
+}
+#unic{
+font-size: larger;
+color: brown;
+}
+
+
+
+ul li {
+    list-style-type: circle;
+}
+nav > ol {
+    background-color: #00fffb;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    width: 1350px;
+}
+
+
+a{
+color: rgb(184, 227, 83);
+
+}
+a:hover{
+    color: rgb(186, 9, 9); 
+
+
+}
+
+
+
+
+.корзина{
+width: 250px;
+height: 250px;
+background-color: aquamarine;
+border-radius: 20px;
+margin-top: 4%;
+padding-top: 1%;
+padding-left: 4%;
+}
+
+.content-container{
+background-color: rgb(125, 28, 28);
+border-radius: 2%;
+padding: 5% 1%;
+margin-top: 3%;
+
+
+}
+
+section{
+border: solid 1px #00fffb;
+border-radius: 5px;
+margin-top: 1%;
+padding-left: 10%;
+}
+
+    
+h1{
+    color: blue;
+    font-family: 'Lora' , serif;
+}
+
